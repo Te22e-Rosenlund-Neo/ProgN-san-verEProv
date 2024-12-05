@@ -1,0 +1,15 @@
+C:\Users\neo.rosenlund\Documents\ProgNäsanÖverEProv\NäsanEProf\bin\Debug\net8.0\NäsanEProf.exe
+C:\Users\neo.rosenlund\Documents\ProgNäsanÖverEProv\NäsanEProf\bin\Debug\net8.0\NäsanEProf.deps.json
+C:\Users\neo.rosenlund\Documents\ProgNäsanÖverEProv\NäsanEProf\bin\Debug\net8.0\NäsanEProf.runtimeconfig.json
+C:\Users\neo.rosenlund\Documents\ProgNäsanÖverEProv\NäsanEProf\bin\Debug\net8.0\NäsanEProf.dll
+C:\Users\neo.rosenlund\Documents\ProgNäsanÖverEProv\NäsanEProf\bin\Debug\net8.0\NäsanEProf.pdb
+C:\Users\neo.rosenlund\Documents\ProgNäsanÖverEProv\NäsanEProf\obj\Debug\net8.0\NäsanEProf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neo.rosenlund\Documents\ProgNäsanÖverEProv\NäsanEProf\obj\Debug\net8.0\NäsanEProf.AssemblyInfoInputs.cache
+C:\Users\neo.rosenlund\Documents\ProgNäsanÖverEProv\NäsanEProf\obj\Debug\net8.0\NäsanEProf.AssemblyInfo.cs
+C:\Users\neo.rosenlund\Documents\ProgNäsanÖverEProv\NäsanEProf\obj\Debug\net8.0\NäsanEProf.csproj.CoreCompileInputs.cache
+C:\Users\neo.rosenlund\Documents\ProgNäsanÖverEProv\NäsanEProf\obj\Debug\net8.0\NäsanEProf.sourcelink.json
+C:\Users\neo.rosenlund\Documents\ProgNäsanÖverEProv\NäsanEProf\obj\Debug\net8.0\NäsanEProf.dll
+C:\Users\neo.rosenlund\Documents\ProgNäsanÖverEProv\NäsanEProf\obj\Debug\net8.0\refint\NäsanEProf.dll
+C:\Users\neo.rosenlund\Documents\ProgNäsanÖverEProv\NäsanEProf\obj\Debug\net8.0\NäsanEProf.pdb
+C:\Users\neo.rosenlund\Documents\ProgNäsanÖverEProv\NäsanEProf\obj\Debug\net8.0\NäsanEProf.genruntimeconfig.cache
+C:\Users\neo.rosenlund\Documents\ProgNäsanÖverEProv\NäsanEProf\obj\Debug\net8.0\ref\NäsanEProf.dll
